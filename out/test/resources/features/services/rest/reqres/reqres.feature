@@ -11,4 +11,4 @@ Feature: Actualizar y borrar información en la pagina Reqres
   Scenario: Borrar informacion
     Given el usuario esta en la pagina y desea borrar su informacion
     When el usuario presiona delete
-    Then el usuario vera que su informacion fue borrada
+    Then el usuario vera que su informacion fue borrada con la respuesta 204

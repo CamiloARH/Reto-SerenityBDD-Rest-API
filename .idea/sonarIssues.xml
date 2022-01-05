@@ -113,6 +113,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/utils/services/PokeList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/utils/services/PokemonURL.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/utils/services/UserBody.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/co/com/sofka/runners/services/rest/RestCucumber.java">
           <value>
             <set />
@@ -144,6 +159,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../RetoSerenityBddSOAP/src/main/java/co/com/sofka/questions/ReturnStringValue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../proyectobase/build.gradle">
           <value>
             <set />
           </value>
