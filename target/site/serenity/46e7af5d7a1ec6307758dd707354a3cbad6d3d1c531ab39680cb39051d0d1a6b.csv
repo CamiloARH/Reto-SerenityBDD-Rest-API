@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Pokedex de los Pokemon del 1 al 10","Ver la lista de Pokemons","SUCCESS","2022-01-05T16:16:44.5236836-05:00[America/Bogota]","0.0","2.66"
+"Pokedex de los Pokemon del 1 al 10","Borrar un pokemon de la lista Pokemon","SUCCESS","2022-01-05T16:16:47.1891384-05:00[America/Bogota]","0.0","0.5"

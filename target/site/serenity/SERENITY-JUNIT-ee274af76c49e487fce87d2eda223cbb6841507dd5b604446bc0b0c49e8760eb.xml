@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Pokedex de los Pokemon del 1 al 10" skipped="0" tests="2" time="3.15" timestamp="2022-01-05 04:16:44"><testcase name="Ver la lista de Pokemons"/><testcase name="Borrar un pokemon de la lista Pokemon"/></testsuite>
